@@ -1,5 +1,5 @@
 class EmailNotifier
   def send(msg)
-    puts "Sending email message: #{msg}"
+    puts "**Sending by email**\n #{msg}"
   end
 end

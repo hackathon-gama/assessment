@@ -1,5 +1,5 @@
 class WhatsappNotifier
   def send(msg)
-    puts "Sending whatsapp message: #{msg}"
+    puts "**Sending by whatsapp**\n #{msg}"
   end
 end
